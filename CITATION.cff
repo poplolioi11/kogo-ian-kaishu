@@ -1,0 +1,35 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "庚午醫案會集（RB00002360） / Kōgo ian kaishū: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.1.0",
+  "date-released": "2026-11-24",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914",
+      "website": "https://github.com/poplolioi11"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/kogo-ian-kaishu/releases/tag/v0.1.0",
+  "repository-code": "https://github.com/poplolioi11/kogo-ian-kaishu",
+  "abstract": "Kōgo ian kaishū is a Japanese manuscript of medical cases in two parts bound as one volume. It opens with a dated assignment and records cases in a mixture of kanji and katakana. Formula names accompanied by passages introduced as comments show how case narratives, prescriptions and criticism were arranged. The manuscript offers evidence for the study of case writing and case-based medical instruction in historical Japan. This dataset uses 21 fixed images from the Fujikawa Collection, Kyoto University Main Library, record RB00002360. The main text is transcribed from 19 pages. The AI-reviewed JSON, TXT and TEI transcription records 594 unresolved comparison items from the primary review. Full human collation is outstanding.",
+  "keywords": [
+    "日本醫學史",
+    "History of Japanese medicine",
+    "醫案抄本",
+    "Medical case manuscripts",
+    "上下卷",
+    "Two-part manuscripts",
+    "宿題",
+    "Medical assignments",
+    "醫案評語",
+    "Medical case commentary",
+    "漢字片假名交書",
+    "Mixed kanji and katakana",
+    "方名",
+    "Formula names"
+  ]
+}
