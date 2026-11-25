@@ -31,5 +31,13 @@
     "Mixed kanji and katakana",
     "方名",
     "Formula names"
+  ],
+  "doi": "10.5281/zenodo.24531812",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24531811",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
